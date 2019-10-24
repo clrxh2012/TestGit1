@@ -1,3 +1,4 @@
 ﻿say hello to git gui！
 ﻿hello branch1 git gui！
+﻿utf  8 编码
 
