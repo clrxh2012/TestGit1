@@ -1,1 +1,1 @@
-﻿hello git gui！
+﻿say hello to git gui！
