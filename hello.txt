@@ -1,1 +1,3 @@
 ﻿say hello to git gui！
+﻿hello branch1 git gui！
+
